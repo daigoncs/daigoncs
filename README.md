@@ -1,4 +1,8 @@
-## Hello, i'm Dai Gonçs 👽
+## Hello, I'm Dai Gonçs 👽
+
+- Desenvolvedora Web Front-End.
+- Graduada em Desenvolvimento Front-End - Laboratoria 
+- 🐛 Estudante de Analise e Desenvolvimento de Sistemas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dai-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
