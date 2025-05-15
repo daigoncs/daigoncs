@@ -1,6 +1,6 @@
 ## Hello, I'm Dai Gonçs 👽
 
-- Desenvolvedora Web Front-End.
+- Dev Front-End.
 - Graduada em Desenvolvimento Front-End - Laboratoria 
 - 🐛 Estudante de Analise e Desenvolvimento de Sistemas 
 
