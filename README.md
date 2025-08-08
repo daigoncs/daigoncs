@@ -20,13 +20,11 @@
   <img align="right" alt="Daianee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/95250588?v=4">
   </div>
  
- <div>   
- <br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph.svg">
 </picture>
- </div>
+
+###
 
