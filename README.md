@@ -10,21 +10,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img width="12" />
   </div>
-  
   ##
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph.svg">
+</picture>
   <div> 
   <a href="https://instagram.com/daigoncs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daianeegoncs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daianegoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Daianee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/95250588?v=4">
+<img align="right" alt="Daianee-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/95250588?v=4">
   </div>
- 
+   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daigoncs/daigoncs/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
